@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author WolfZard
+ *
+ */
+module solid {
+}
